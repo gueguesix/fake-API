@@ -1,0 +1,10 @@
+{
+    "products" : [
+        { "id":  1, "name":  "Classic duck", "image": "https://previews.123rf.com/images/ajt/ajt1310/ajt131000013/22710369-yellow-rubber-duck-isolated-on-white-background.jpg", "price":  10, "quantity": 1 },
+        { "id":  2, "name":  "Duck with blue hat", "image": "https://previews.123rf.com/images/kozirsky/kozirsky1502/kozirsky150200688/36332179-rubber-toy-duck-with-blue-hat-isolated-on-white.jpg", "price":  500, "quantity": 1 },
+        { "id":  3, "name":  "Pink duck", "image": "https://previews.123rf.com/images/foxartbox/foxartbox1703/foxartbox170300020/74121449-photo-depicting-a-pink-rubber-duck-inverted-on-a-white-background-children-bath-toy-macro-.jpg", "price":  20, "quantity": 1 },            
+        { "id":  4, "name":  "Mama duck", "image": "https://previews.123rf.com/images/dontree/dontree1703/dontree170300378/74448026-photo-of-toy-plastic-yellow-rubber-duck.jpg", "price":  25, "quantity": 1 },
+        { "id":  5, "name":  "Orange duck", "image": "https://previews.123rf.com/images/webking/webking0603/webking060300124/363534-photo-of-a-rubberduck.jpg", "price":  30, "quantity": 1 },
+        { "id":  6,"name":  "Duck squad", "image": "https://previews.123rf.com/images/dimiraira/dimiraira1904/dimiraira190400003/120562268-yellow-duck-toy-on-white-background-business-leadership-teamwork-or-friendship-concept-photo.jpg", "price":  70, "quantity": 1 }
+    ]
+}
